@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [【数字游民】居家线上工作一年后，分享几点最真实的经验](https://mp.weixin.qq.com/s/mf3hCWoysjd2Ww8fCi4lfg)
 - [80后，43岁，居家办公的我，被100块买断一天的时间](https://mp.weixin.qq.com/s/gFFVVNJdq0dYOfUrSdjoPg)
 - [三个月从全职妈妈到居家办公：我不是幸运，只是做好了这3件小事](https://mp.weixin.qq.com/s/MpmfdA4LDnqjEVMAOVbpqw)
 - [从“观望”到“投递”：我们应该如何拿下第一个远程兼职？](https://mp.weixin.qq.com/s/LqKlBJcG6Sa72KF3z7B72g)
@@ -27,7 +28,6 @@
 - [远程办公的职业发展：如何在虚拟环境中晋升](https://mp.weixin.qq.com/s/hgqRaLtRa0h4HqJOH1z9RA)
 - [我其实并不看好远程办公](https://mp.weixin.qq.com/s/IQcrj1PLlP3F1A9vuJv_8A)
 - [35岁失业后，我找到3份居家工作，我活成了自己想要的样子](https://mp.weixin.qq.com/s/9vMdjTzjC4vKhqjugAgnYg)
-- [宝妈居家办公实录：“补觉-熬夜”的死循环](https://mp.weixin.qq.com/s/kKWWpWXxkEsu-zB317w0hw)
 
 👉 [查看更多文章](posts)
 
