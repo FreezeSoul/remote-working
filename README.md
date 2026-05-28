@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [按自己喜欢的方式生活（一）](https://mp.weixin.qq.com/s/PBkkGSY3kW1RoI1n63pWtg)
 - [居家上班，新人心里的忐忑与微光](https://mp.weixin.qq.com/s/v-3tyxOcF7ZrlS7SW-QWtQ)
 - [当了十年会计：我是怎样实现居家办公养活自己的](https://mp.weixin.qq.com/s/S2RPt6DpJMEEbPh6eNRbew)
 - [【数字游民】居家线上工作一年后，分享几点最真实的经验](https://mp.weixin.qq.com/s/mf3hCWoysjd2Ww8fCi4lfg)
@@ -27,7 +28,6 @@
 - [每个创业者都应该重新思考远程工作的真相](https://mp.weixin.qq.com/s/MIEFWmZkdQqcjZodS8HQbw)
 - [我对远程工作的理解](https://mp.weixin.qq.com/s/TC-tL40xXSSZL_nmCqBOZQ)
 - [远程办公：你赚了还是亏了？](https://mp.weixin.qq.com/s/6FQUmikPdNUge8vpszdjuA)
-- [远程办公的职业发展：如何在虚拟环境中晋升](https://mp.weixin.qq.com/s/hgqRaLtRa0h4HqJOH1z9RA)
 
 👉 [查看更多文章](posts)
 
