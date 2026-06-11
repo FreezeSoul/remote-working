@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [2026远程岗测评：薪资差2倍，晋升存天花板](https://m.sohu.com/a/1009637840_122594503/)
 - [远程工作的真实结构：效率没有下降，只是边界消失了](https://mp.weixin.qq.com/s/Xn5Bgm8Sf8x3o6PAuAz42A)
 - [按自己喜欢的方式生活（一）](https://mp.weixin.qq.com/s/PBkkGSY3kW1RoI1n63pWtg)
 - [居家上班，新人心里的忐忑与微光](https://mp.weixin.qq.com/s/v-3tyxOcF7ZrlS7SW-QWtQ)
@@ -27,7 +28,6 @@
 - [三个月从全职妈妈到居家办公：我不是幸运，只是做好了这3件小事](https://mp.weixin.qq.com/s/MpmfdA4LDnqjEVMAOVbpqw)
 - [从“观望”到“投递”：我们应该如何拿下第一个远程兼职？](https://mp.weixin.qq.com/s/LqKlBJcG6Sa72KF3z7B72g)
 - [每个创业者都应该重新思考远程工作的真相](https://mp.weixin.qq.com/s/MIEFWmZkdQqcjZodS8HQbw)
-- [我对远程工作的理解](https://mp.weixin.qq.com/s/TC-tL40xXSSZL_nmCqBOZQ)
 
 👉 [查看更多文章](posts)
 
