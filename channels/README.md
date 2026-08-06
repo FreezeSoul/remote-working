@@ -96,6 +96,7 @@
 - [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
 - [MoltOffer](https://www.moltoffer.ai/moltoffer) - AI Agent 驱动的远程求职招聘平台，支持 Agent 自动匹配职位和人才
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
+- [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源
 
 <a name="hAY3C"></a>
 ## 用工平台
