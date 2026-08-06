@@ -99,6 +99,7 @@
 - [WorkBest](https://www.workbest.xyz/) - 远程工作招聘平台
 - [电鸭社区](https://eleduck.com/) - 国内最大的远程工作交流社区
 - [远程职位日报](https://yuancheng.works/) - 远程职位信息聚合
+- [数字游民 LibNomad](https://libnomad.com/) - 聚合电鸭、V2EX、RemoteOK、weworkremotely 等平台的远程职位，支持订阅邮件推送
 
 👉 [查看更多渠道](channels)
 
