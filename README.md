@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [远程办公三年我后悔了：自由职业程序员的真实代价](https://mp.weixin.qq.com/s/Sz_etwq5oHo4NN94MU6HIA)
 - [远程工作七个月：从怀疑到适应，从陪伴到成长](https://mp.weixin.qq.com/s/_jgHct73obkjGu7e2HUkNA)
 - [远程工作2年｜真实时间分配复盘，不美化、不内耗](https://mp.weixin.qq.com/s/GOOKI9_ZUlcY7w51iiDevg)
 - [30岁远程办公后，我才懂得女性真正的成长是从不被打扰开始的](https://mp.weixin.qq.com/s/vQrZKGQkduHc3t4wVfQu9Q)
@@ -31,7 +32,6 @@
 - [2026远程岗测评：薪资差2倍，晋升存天花板](https://m.sohu.com/a/1009637840_122594503/)
 - [远程工作的真实结构：效率没有下降，只是边界消失了](https://mp.weixin.qq.com/s/Xn5Bgm8Sf8x3o6PAuAz42A)
 - [按自己喜欢的方式生活（一）](https://mp.weixin.qq.com/s/PBkkGSY3kW1RoI1n63pWtg)
-- [居家上班，新人心里的忐忑与微光](https://mp.weixin.qq.com/s/v-3tyxOcF7ZrlS7SW-QWtQ)
 
 👉 [查看更多文章](posts)
 
