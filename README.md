@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [从0到5，远程办公正在我身边发生](https://mp.weixin.qq.com/s/KGj4RablNxguYtWC_2LI6g)
 - [员工在家办公，公司在云端违法](https://mp.weixin.qq.com/s/a_noLua_RUIf5EheDlJkpA)
 - [30岁Gap丨我找到一份月入过万但不坐班的工作](https://mp.weixin.qq.com/s/oN33znOxr0To_HqhoVbomw)
 - [四十岁，从广州逃回老家县城，一份跨境电商远程工作，给了我新的魂](https://mp.weixin.qq.com/s/Jpwvd7SuCPR0sD2m4KVZ6g)
@@ -31,7 +32,6 @@
 - [30岁远程办公后，我才懂得女性真正的成长是从不被打扰开始的](https://mp.weixin.qq.com/s/vQrZKGQkduHc3t4wVfQu9Q)
 - [13年远程工作经验坦白说：如何找到远程职位](https://mp.weixin.qq.com/s/EIcWX7aUlV9EW6Jm-X7NHQ)
 - [我的远程工作这两年](https://eleduck.com/posts/4lf7gG)
-- [远程工作的第3年，我赚到了什么又失去了什么](https://mp.weixin.qq.com/s/tYfF9tZWFt9JKWIaXe9hKg)
 
 👉 [查看更多文章](posts)
 
