@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [员工在家办公，公司在云端违法](https://mp.weixin.qq.com/s/a_noLua_RUIf5EheDlJkpA)
 - [30岁Gap丨我找到一份月入过万但不坐班的工作](https://mp.weixin.qq.com/s/oN33znOxr0To_HqhoVbomw)
 - [四十岁，从广州逃回老家县城，一份跨境电商远程工作，给了我新的魂](https://mp.weixin.qq.com/s/Jpwvd7SuCPR0sD2m4KVZ6g)
 - [远程办公三年我后悔了：自由职业程序员的真实代价](https://mp.weixin.qq.com/s/Sz_etwq5oHo4NN94MU6HIA)
@@ -31,7 +32,6 @@
 - [13年远程工作经验坦白说：如何找到远程职位](https://mp.weixin.qq.com/s/EIcWX7aUlV9EW6Jm-X7NHQ)
 - [我的远程工作这两年](https://eleduck.com/posts/4lf7gG)
 - [远程工作的第3年，我赚到了什么又失去了什么](https://mp.weixin.qq.com/s/tYfF9tZWFt9JKWIaXe9hKg)
-- [2026远程岗测评：薪资差2倍，晋升存天花板](https://m.sohu.com/a/1009637840_122594503/)
 
 👉 [查看更多文章](posts)
 
