@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [远程办公的自由背后，藏着你不想看见的代价](https://mp.weixin.qq.com/s/B_svGeBnoa5SZgblIrql2w)
 - [在家上班真的爽吗？远程办公的真相，没人告诉你的那些事](https://mp.weixin.qq.com/s/AT5sYm5bFIRFxeqFRKFJBg)
 - [从0到5，远程办公正在我身边发生](https://mp.weixin.qq.com/s/KGj4RablNxguYtWC_2LI6g)
 - [员工在家办公，公司在云端违法](https://mp.weixin.qq.com/s/a_noLua_RUIf5EheDlJkpA)
@@ -31,7 +32,6 @@
 - [远程工作七个月：从怀疑到适应，从陪伴到成长](https://mp.weixin.qq.com/s/_jgHct73obkjGu7e2HUkNA)
 - [远程工作2年｜真实时间分配复盘，不美化、不内耗](https://mp.weixin.qq.com/s/GOOKI9_ZUlcY7w51iiDevg)
 - [30岁远程办公后，我才懂得女性真正的成长是从不被打扰开始的](https://mp.weixin.qq.com/s/vQrZKGQkduHc3t4wVfQu9Q)
-- [13年远程工作经验坦白说：如何找到远程职位](https://mp.weixin.qq.com/s/EIcWX7aUlV9EW6Jm-X7NHQ)
 
 👉 [查看更多文章](posts)
 
