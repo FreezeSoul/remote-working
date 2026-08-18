@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [自由职业两年，我没有获得完美自由，但也坚决不回职场](https://mp.weixin.qq.com/s/Hrvqu8tAczVD0cYBJAhz0g)
 - [美国远程办公正在消失？Starbucks要求员工回办公室](https://mp.weixin.qq.com/s/L1a6YD1k6NHQG55Lz48PvA)
 - [远程办公900天，我踩了这4个坑才找到高效秘诀](https://mp.weixin.qq.com/s/zPHI-tkbD30C4LUMVsOzKw)
 - [尝试远程工作的第一个月，赚了605刀（前期准备篇）](https://mp.weixin.qq.com/s/MH-xaGBUtWJvw12wP9o9Lw)
@@ -31,7 +32,6 @@
 - [远程办公的自由背后，藏着你不想看见的代价](https://mp.weixin.qq.com/s/B_svGeBnoa5SZgblIrql2w)
 - [在家上班真的爽吗？远程办公的真相，没人告诉你的那些事](https://mp.weixin.qq.com/s/AT5sYm5bFIRFxeqFRKFJBg)
 - [从0到5，远程办公正在我身边发生](https://mp.weixin.qq.com/s/KGj4RablNxguYtWC_2LI6g)
-- [员工在家办公，公司在云端违法](https://mp.weixin.qq.com/s/a_noLua_RUIf5EheDlJkpA)
 
 👉 [查看更多文章](posts)
 
