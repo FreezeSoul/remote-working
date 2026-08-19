@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [远程办公正在失宠？真正被淘汰的，可能是“一刀切”](https://www.sohu.com/a/1058577564_121118940)
 - [我为什么开始去咖啡厅办公](https://x.com/ianneo_ai/article/2074800934136500601)
 - [自由职业两年，我没有获得完美自由，但也坚决不回职场](https://mp.weixin.qq.com/s/Hrvqu8tAczVD0cYBJAhz0g)
 - [美国远程办公正在消失？Starbucks要求员工回办公室](https://mp.weixin.qq.com/s/L1a6YD1k6NHQG55Lz48PvA)
@@ -31,7 +32,6 @@
 - [居家办公的7个月，我从紧张到自如](https://mp.weixin.qq.com/s/CjPouoaowV1MBkgJiBj2Zw)
 - [远程办公一年，我的真实感受](https://mp.weixin.qq.com/s/u3URbxVBESLoLz02RqKGZg)
 - [远程办公的自由背后，藏着你不想看见的代价](https://mp.weixin.qq.com/s/B_svGeBnoa5SZgblIrql2w)
-- [在家上班真的爽吗？远程办公的真相，没人告诉你的那些事](https://mp.weixin.qq.com/s/AT5sYm5bFIRFxeqFRKFJBg)
 
 👉 [查看更多文章](posts)
 
